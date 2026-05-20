@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Engineer;Systems+Architect;Building+Scalable+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=40&duration=3000&pause=1000&color=FF2A2A&center=true&vCenter=true&width=700&height=70&lines=COMPLEXITY+IS+INEVITABLE.;CHAOS+TO+SCALE.;ENGINEERING+UNBREAKABLE+SYSTEMS." alt="Typing SVG" />
   <br />
   <p>I build scalable web applications, custom proxy architectures, and high-performance user interfaces.</p>
 </div>
