@@ -10,7 +10,7 @@
 
 ### Tools 
 <p align="center">
-  <img src="./flags/python-flag.svgo" width="128" height="128" alt="Python" />
+  <img src="./flags/python-flago.svg" width="128" height="128" alt="Python" />
   <img src="./flags/javascript-flag.svg" width="128" height="128" alt="JavaScript" />
   <img src="./flags/tailwind-flago.svg" width="128" height="128" alt="Tailwind CSS" />
   <img src="./flags/linux-flag.svg" width="128" height="128" alt="Linux" />
