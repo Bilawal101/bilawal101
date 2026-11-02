@@ -9,7 +9,13 @@
 <br />
 
 ### Tools 
-
+<p align="center">
+  <img src="./flags/python-flag.svg" width="128" height="128" alt="Python" />
+  <img src="./flags/javascript-flag.svg" width="128" height="128" alt="JavaScript" />
+  <img src="./flags/tailwind-flag.svg" width="128" height="128" alt="Tailwind CSS" />
+  <img src="./flags/linux-flag.svg" width="128" height="128" alt="Linux" />
+  <img src="./flags/github-flag.svg" width="128" height="128" alt="GitHub" />
+</p>
 <img src="https://skillicons.dev/icons?i=js,python,bash,linux,vim,git,github&theme=dark" alt="Tech Stack" />
 
 <br />
